@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Flake updates</title>
+    <link>https://github.com/TimurKamnev/Flake</link>
+    <description>Personal updates for Flake.</description>
+    <language>en</language>
+    <item>
+      <title>Flake 1.0.0</title>
+      <pubDate>Fri, 13 Nov 2026 20:35:59 +0600</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Первый личный релиз Flake на основе Snowhush.]]></description>
+      <enclosure url="https://raw.githubusercontent.com/TimurKamnev/Flake-Releases/main/Flake-1.0.0.zip" sparkle:edSignature="6c8XFhz4wwIgzuFMPKUobLA5fUNG9HaMlwLewn2FvqzlKSvRbe92iNLIyY47fVpSClziIzzOsZQ8Cek+zF3gDg==" length="3314144" type="application/octet-stream"></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: RLUGrwfVrFPw0K53X6fftfRoP1s49oQOaOeBbO5oHxEy2CbP8Jbwg24URGbfucD46OF1jhhUC9D81wA/uhdrAQ==
+length: 1275
+-->
